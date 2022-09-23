@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GamelySchool.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>36</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>739542B6EA1438DCF843FC01DA2D93E1390402A3</string>
+				<key>dateExpires</key>
+				<string>30/01/23</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>739542B6EA1438DCF843FC01DA2D93E1390402A3</string>
+						<key>dateExpires</key>
+						<string>30/01/23</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UnityFramework.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>B5KL34T9NL</string>
+						<key>name</key>
+						<string>Raykindle LLP</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>B5KL34T9NL.com.RayKindle.GamelySchool</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>B5KL34T9NL</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>GamelySchool.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>85cf1d65-10aa-4bb9-9a94-75c85a9859d8</string>
+				<key>dateExpires</key>
+				<string>30/01/23</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.RayKindle.GamelySchool</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>B5KL34T9NL</string>
+				<key>name</key>
+				<string>Raykindle LLP</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>2.0.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
